@@ -388,36 +388,18 @@ Additional biobed materials may also be included where approved within the broad
 
 ```text
 msc-pesticide-microbiome-research/
-│
 ├── README.md
-│
 ├── docs/
-│   ├── study-design.md
-│   ├── sampling-strategy.md
-│   └── project-status.md
-│
+├── data/
+├── notebooks/
+│   └── soil-property-analysis.ipynb
 ├── 01-soil-characterization/
-│   ├── README.md
 │   └── figures/
-│
 ├── 02-shotgun-metagenomics/
-│   ├── README.md
-│   ├── kbase-workflow.md
 │   ├── biobed-results/
 │   └── glenlea-soil-results/
-│
 ├── 03-pesticide-residue-analysis/
-│   ├── README.md
-│   ├── quppe-method.md
-│   ├── glyphosate-glufosinate-ampa-method.md
-│   ├── calibration/
-│   └── preliminary-results/
-│
-├── 04-statistical-analysis/
-│   └── README.md
-│
-└── data/
-    └── README.md
+└── 04-statistical-analysis/
 ```
 
 ---
